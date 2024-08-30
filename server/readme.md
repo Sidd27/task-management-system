@@ -65,7 +65,7 @@ Run the migration script to create the necessary tables:
 npm run create-tables
 ```
 
-5. Start the Server
+5. **Start the Server**
 
 You can start the server with:
 
