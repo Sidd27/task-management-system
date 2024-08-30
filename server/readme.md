@@ -38,8 +38,8 @@ npm install
 
 3. **Create or Edit the .env File**
 
-If a .env file doesn’t already exist in the server directory, create one. If it exists, open it for editing.
-Add or update the following environment variables in the .env file:
+If a `.env` file doesn’t already exist in the server directory, create one. If it exists, open it for editing.
+Add or update the following environment variables in the `.env` file:
 
 ```bash
 PORT=3001
